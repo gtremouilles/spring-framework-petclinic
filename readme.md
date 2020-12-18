@@ -1,7 +1,5 @@
 # TP INSA
-#Exo 2 et 2 bis
-fix release
-test2
+test
 
 
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-petclinic/spring-framework-petclinic.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-framework-petclinic/)
